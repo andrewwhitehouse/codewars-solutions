@@ -7,6 +7,7 @@
 ## 7 kyu
 
 * [Principal Diagonal | VS | Secondary Diagonal](https://www.codewars.com/kata/5a8c1b06fd5777d4c00000dd)
+* [Number of Rectangles in a Grid](https://www.codewars.com/kata/556cebcf7c58da564a000045)
 
 ## 6 kyu
 
